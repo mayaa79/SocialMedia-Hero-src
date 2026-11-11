@@ -1,0 +1,5 @@
+# dane lokalne / sekrety
+.env
+*.key
+secrets/
+raporty/*.private.*
